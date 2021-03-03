@@ -14,6 +14,35 @@ Write a symbolic language program MIPS, which it will read an integer 2 <= b <= 
 For any other number b, you have to print error message and ask for a number again.
 When you read the number 2 <= b <= 10, the program to request a string from user, which must represent a valid number up to 5 digits, in the numbering system with base b.
 If the input string isn't correct, the program to print error message and ask for a string again.
+If the input string is correct, than the program convert the number with base b, in demical numbering system and print this number in console.
+This program repeated until the input number b is zero(0).
+
+### For Example - input and output
+Give base:
+
+X
+
+Wrong base; give again:
+
+6
+
+Give 5-digit number is base 6:
+
+91347
+
+Wrong number; give again:
+
+12245
+
+Number in demical is:
+
+1829
+
+Give base:
+
+
+
+
 
 ## MIPS Simulator
 
