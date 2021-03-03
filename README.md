@@ -9,8 +9,11 @@ git clone https://github.com/DimitrisRammos/System_Calculation
 This program is the final exercise in lesson Computer Architecture I from my second half year, in https://www.di.uoa.gr/.
 This work is in assembly.
 
-## Vocalization Project
-The vocalization of the Project find [here.](https://github.com/DimitrisRammos/Graph-Coloring-Project/blob/main/iphw1920_4.pdf)
+## Exercise Pronunciation
+Write a symbolic language program MIPS, which it will read an integer 2 <= b <= 10, or zero(0) for termination the program.
+For any other number b, you have to print error message and ask for a number again.
+When you read the number 2 <= b <= 10, the program to request a string from user, which must represent a valid number up to 5 digits, in the numbering system with base b.
+If the input string isn't correct, the program to print error message and ask for a string again.
 
 ## MIPS Simulator
 
